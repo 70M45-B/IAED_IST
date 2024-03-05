@@ -5,9 +5,6 @@
 
 ## 1. Introduction
 
-The goal is to build a public transportation career management system.
-For that, your system should allow the definition of stations (stops) and routes, as well as their consultation.
-
 Interaction with the program should occur through a set of lines composed of a letter (command) and a number of arguments depending on the command to be executed.
 It can be assumed that all input provided will respect the indicated types; for example, where a decimal integer value is expected, a letter will never be entered.
 The possible commands are listed in the following table and indicate the operations to be performed.
@@ -21,11 +18,6 @@ The possible commands are listed in the following table and indicate the operati
 | __i__ | lists interconnection nodes |
 
 ## 2. Problem Specification
-
-The project's objective is to have a public transportation career management system.
-For this purpose, a set of careers are created whose paths correspond to a sequence of connections between stops.
-
-![buslines](triag.png)
 
 Each __career__ (*left*, *right*, or *middle* in the figure) is characterized by a name composed of letters or decimal digits, a starting stop, and a destination stop.
 The length of the name cannot exceed __20__ *bytes*.
