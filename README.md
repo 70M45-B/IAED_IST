@@ -5,7 +5,4 @@ For that, the system allows the definition of stations (stops) and routes, as we
 The second project is an extension of the first one, using dynamic memory instead of contiguous memory.
 
 **Check the projects' README for more detailed information!**
-```bash
-## clone the repository
-git clone https://github.com/tomasbernardino/IAED_IST.git
-```
+
